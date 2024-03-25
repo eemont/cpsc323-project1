@@ -1,2 +1,7 @@
-# cpsc323-project1
-Project 1
+# Data Processing Project
+
+## __Student names :__
+
+<b>Emmanuel Montoya</b>
+
+<b>Rouni Assaf</b>
