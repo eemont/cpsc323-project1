@@ -1,4 +1,8 @@
-run = "cowsay Configure me!"
+# Compile + Run
+compile = "g++ main.cpp -o run"
+run = "./run"
+
+language = "C++"
 
 [nix]
 channel = "stable-23_11"
