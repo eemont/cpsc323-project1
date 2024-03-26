@@ -6,7 +6,7 @@
 
 <b>Rouni Assaf</b>
 
-<b> Tony Dinh</b>
+<b>Tony Dinh</b>
 
 ## Technologies used:
 
