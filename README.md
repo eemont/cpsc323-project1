@@ -6,7 +6,9 @@
 
 <b>Rouni Assaf</b>
 
-# Technologies used:
+<b> Tony Dinh</b>
+
+## Technologies used:
 
 - Replit
 - VSCode
