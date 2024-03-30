@@ -10,5 +10,4 @@
 
 ## Technologies used:
 
-- Replit
-- VSCode
+- Online C++ Compiler
